@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2> Wellcome to new version fo Gameoflife</h2>
+<h2> Wellcome to Jenkins Pipeline!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of

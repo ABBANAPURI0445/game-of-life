@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to testing!</h2>
+<h2> Welcome to game of life Conway-01!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
